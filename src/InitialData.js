@@ -1,44 +1,58 @@
 var studentArray = [{
     id: 1,
-    name: 'Jayesh',
-    currentClass: 5,
-    division: 'A'
+    name: 'pavan',
+   email: 'Pavan123@gmail.com',
+    age: 27,
+    city: 'hyderabad',
+    profession: 'software'
 },
 {
     id: 2,
-    name: 'Minakshi',
-    currentClass: 12,
-    division: 'C'
+    name: 'sonu',
+   email: 'sonu123@gmail.com',
+    age: 27,
+    city: 'hyderabad',
+    profession: 'software'
 },
 {
     id: 3,
-    name: 'Drisham',
-    currentClass: 7,
-    division: 'C'
+    name: 'rakesh',
+   email: 'rakesh123@gmail.com',
+    age: 27,
+    city: 'hyderabad',
+    profession: 'software'
 },
 {
     id: 4,
-    name: 'Kamlesh',
-    currentClass: 7,
-    division: 'A'
+    name: 'raju',
+   email: 'raju123@gmail.com',
+    age: 27,
+    city: 'hyderabad',
+    profession: 'software'
 },
 {
     id: 5,
-    name: 'Dhoni',
-    currentClass: 10,
-    division: 'D'
+    name: 'gautam',
+   email: 'gautam123@gmail.com',
+    age: 27,
+    city: 'hyderabad',
+    profession: 'software'
 },
 {
     id: 6,
-    name: 'Piyush',
-    currentClass: 10,
-    division: 'A'
+    name: 'manimala',
+   email: 'manimala123@gmail.com',
+    age: 27,
+    city: 'hyderabad',
+    profession: 'software'
 },
 {
     id: 7,
-    name: 'Aansh',
-    currentClass: 8,
-    division: 'A'
+    name: 'banti',
+   email: 'banti123@gmail.com',
+    age: 27,
+    city: 'hyderabad',
+    profession: 'software'
 }]
 
 module.exports = studentArray;
